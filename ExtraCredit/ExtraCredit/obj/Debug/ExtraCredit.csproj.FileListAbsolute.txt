@@ -1,0 +1,6 @@
+C:\Users\ac132998\Desktop\C-Sharp-Projects\Chapter 1\ExtraCredit\ExtraCredit\bin\Debug\ExtraCredit.exe.config
+C:\Users\ac132998\Desktop\C-Sharp-Projects\Chapter 1\ExtraCredit\ExtraCredit\bin\Debug\ExtraCredit.exe
+C:\Users\ac132998\Desktop\C-Sharp-Projects\Chapter 1\ExtraCredit\ExtraCredit\bin\Debug\ExtraCredit.pdb
+C:\Users\ac132998\Desktop\C-Sharp-Projects\Chapter 1\ExtraCredit\ExtraCredit\obj\Debug\ExtraCredit.csproj.CoreCompileInputs.cache
+C:\Users\ac132998\Desktop\C-Sharp-Projects\Chapter 1\ExtraCredit\ExtraCredit\obj\Debug\ExtraCredit.exe
+C:\Users\ac132998\Desktop\C-Sharp-Projects\Chapter 1\ExtraCredit\ExtraCredit\obj\Debug\ExtraCredit.pdb
